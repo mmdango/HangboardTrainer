@@ -1,0 +1,13 @@
+ext {
+    kotlin_version = '1.1.51'
+    butterknife_version = '8.8.1'
+
+    deps = [
+        butterknife: "com.jakewharton:butterknife:$butterknife_version",
+        butterknife_processor: "com.jakewharton:butterknife-compiler:$butterknife_version",
+        kotlin: "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version",
+        appcompat: 'com.android.support:appcompat-v7:26.1.0',
+        constraint_layout: 'com.android.support.constraint:constraint-layout:1.0.2',
+
+    ]
+}

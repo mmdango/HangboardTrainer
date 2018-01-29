@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HangboardTrainer</string>
+    <string name="beginner_training">Beginner training</string>
+    <string name="intermediate_training">Intermediate training</string>
+    <string name="expert_training">Expert training</string>
+    <string name="custom_training">Custom training</string>
 </resources>
